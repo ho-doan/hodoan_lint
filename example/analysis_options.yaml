@@ -1,0 +1,4 @@
+include: package:hodoan_lint/recommended.yaml
+
+linter:
+  rules:

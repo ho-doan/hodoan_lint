@@ -1,0 +1,13 @@
+name: hodoan_lint
+description: "Flutter lint plugin project"
+version: 0.0.2
+homepage: https://github.com/ho-doan/hodoan_lint
+
+environment:
+  sdk: '>=2.19.6 <4.0.0'
+
+dependencies:
+  flutter_lints: ^2.0.1
+
+dev_dependencies:
+flutter:

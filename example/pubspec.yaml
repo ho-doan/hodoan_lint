@@ -1,0 +1,21 @@
+name: hodoan_lint_example
+description: "Demonstrates how to use the hodoan_lint plugin."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+  hodoan_lint:
+    path: ../
+  integration_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
