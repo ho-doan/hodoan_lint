@@ -1,6 +1,6 @@
 name: hodoan_lint
 description: "Flutter lint plugin project"
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/ho-doan/hodoan_lint
 
 environment:
