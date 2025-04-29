@@ -1,3 +1,7 @@
+## 0.0.5
+
+- upgrade flutter_lint 4.0.0
+
 ## 0.0.4
 
 - update readme

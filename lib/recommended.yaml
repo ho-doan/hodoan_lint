@@ -7,7 +7,7 @@ linter:
     - always_specify_types
     - annotate_overrides
     - avoid_bool_literals_in_conditional_expressions
-    - avoid_catches_without_on_clauses
+    # - avoid_catches_without_on_clauses
     - avoid_classes_with_only_static_members
     - avoid_double_and_int_checks
     - avoid_dynamic_calls
@@ -149,7 +149,7 @@ linter:
     - unnecessary_null_aware_operator_on_extension_on_nullable
     - unnecessary_null_checks
     - unnecessary_raw_strings
-    - unnecessary_to_list_in_spreads
+    # - unnecessary_to_list_in_spreads
     - use_colored_box
     - use_decorated_box
     - use_enums
